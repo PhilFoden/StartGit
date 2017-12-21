@@ -6,3 +6,4 @@ Create a new branch feature1
 fix issue-001
 =======
 What is git stash?
+..........
