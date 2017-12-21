@@ -4,3 +4,5 @@ Create a new branch feature1
 +22
 --no-ff git merge
 fix issue-001
+=======
+What is git stash?
