@@ -4,3 +4,4 @@ Create a new branch feature1
 +22
 --no-ff git merge
 What is git stash?
+test git merge
