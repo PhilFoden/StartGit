@@ -8,4 +8,8 @@ fix issue-001
 What is git stash?
 ..........
 test git merge
-git merge is easy!!!
+<<<<<<< HEAD
+git merge很简单
+=======
+git merge很简单
+>>>>>>> testGit
